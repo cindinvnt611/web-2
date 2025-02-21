@@ -1,0 +1,16 @@
+Nama: Cindi Novianti
+NIM: 0110124072
+
+1. sebuah istilah untuk loksi path (direktori) di filesystem yang menyimpan root (URI = /) dari sebuah website
+2. Dokumen root tidak selalu terletak di C:\xampp\htdocs . Direkotori tersebut adalah lokasi default untuk dokumen root pada XAMPP di Windows, tetapi dapat diubah sesuai kebutuhan.
+3. a. init: sebuah langkah pertama yang dilakukan saat memulai proyek baru, biasa digunakan untuk menginisialisasi repository git di directory yang dipilih
+   b. clone: digunakan untuk menduplikasi repository dari server Git ke komputer lokal
+   c. remote: digunakan untuk mengelola daftar repository jarak jauh yang terkait dengan repository lokal
+   d. add:digunakan untuk menambahkan file kedalam staging area, yang berarti Git mulai melacak file ytersebut dan siap untuk di commit.
+   e. commit: digunakan untuk menyimpan perubahan ke repository lokal, juga memberikan riwayat perubahan yang jelas.
+   f. push: digunakan untuk mengirim perubahan tersebut ke repository remote, seperti GitHub.
+   g. checkout: digunakan untuk berpindah antar branch atau mengembalikan file ke versi sebelumnya
+4. Perbedaan diantara keduanya adalah pada fokus masing masing platform. GitHub yang merupakan platform kolaborasi yang membantu meninjau dan mengelola kode jarak jauh, GitLab lebih fokus pada DevOps dan CI/CD.
+5. variable user: variabel yang di definisikan dan diatur oleh pengguna. Biasanya digunakan untuk mrngkontrol perilaku aplikasi atau skrip yang dijalankan oleh pengguna tersebut.
+   variable system: Variabel yang di definisikan dan diatur oleh sistem operasi. Variabel ini berlaku untuk semua pengguna di sistem dan digunakan untui mengontrol perilaku sistem secara keseluruhan. Variabel system bias any adisimpan dalam berkas konfigurasi di directory sistem, dan memerlukan izin khusus untuk mengubahnya.
+6. Persamaan keduanya adalah memiliki nilai yang tidak berubah selama eksekusi program atau sistem berjalan variabel sistem ditetapkan oleh sistem operasi atau lingkungan, seperti PATH atau HOME, sementara variable konstan ditetapkan dalam kode program dan nilainya tidak bisa diubah setelah di deklarasikan
